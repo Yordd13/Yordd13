@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yordan Dimitrov from Bulgaria, Sofia and I'm 17 years old
-- 👀 I’m interested in programing, table tennis and playing video games
+- 👀 I’m interested in programing, table tennis and video games
 - 🌱 I’m currently learning java and hope to learn js
 - 📫 How to reach me yorddimitrov2006@gmail.com
